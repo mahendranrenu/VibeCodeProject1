@@ -1,0 +1,15 @@
+ProductDetails Page
+
++-----------------------------+
+| [Nav] | Product Details     |
+|       | ------------------  |
+|       | 🍎 Apple            |
+|       | Fresh, crisp apples |
+|       | $1.50/lb            |
+|       | [Back to Products]  |
++-----------------------------+
+
+Legend:
+- [Nav]: Navigation bar (expanded or collapsed)
+- [Back to Products]: Button
+- Product emoji, name, price, and description as shown

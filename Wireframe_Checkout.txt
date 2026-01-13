@@ -1,0 +1,16 @@
+Checkout Page
+
++-----------------------------+
+| [Nav] | Checkout            |
+|       | ------------------  |
+|       | 🍎 Apple  x2  $3.00 |
+|       | 🍌 Banana x1 $0.99  |
+|       | ------------------  |
+|       | Total: $3.99        |
+|       | [Process Order]     |
++-----------------------------+
+
+Legend:
+- [Nav]: Navigation bar (expanded or collapsed)
+- [Process Order]: Button
+- Product emoji, name, quantity, and price as shown

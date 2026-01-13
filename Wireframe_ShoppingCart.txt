@@ -1,0 +1,17 @@
+ShoppingCart Page
+
++-----------------------------+
+| [Nav] | Shopping Cart       |
+|       | ------------------  |
+|       | 🍎 Apple  x2  $3.00 |
+|       | [Update][Remove]    |
+|       | 🍌 Banana x1 $0.99  |
+|       | [Update][Remove]    |
+|       | ------------------  |
+|       | [Checkout]          |
++-----------------------------+
+
+Legend:
+- [Nav]: Navigation bar (expanded or collapsed)
+- [Update], [Remove], [Checkout]: Buttons
+- Product emoji, name, quantity, and price as shown

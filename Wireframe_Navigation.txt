@@ -1,0 +1,28 @@
+Navigation Bar (Expanded)
+
++-----------------------------+
+| [Products]                 |
+| [ProductDetails]           |
+| [ShoppingCart]             |
+| [Checkout]                 |
++-----------------------------+
+|                             |
+|   (Main Content Area)       |
+|                             |
++-----------------------------+
+
+Navigation Bar (Collapsed, < 300px)
+
++-----+
+| P   |
+| PD  |
+| SC  |
+| CO  |
++-----+
+|     |
+|     |
+|     |
++-----+
+
+Legend:
+- [Nav]: Navigation bar (expanded or collapsed)

@@ -1,0 +1,17 @@
+Products Page
+
++-----------------------------+
+| [Nav] | Product List        |
+|       | ------------------  |
+|       | 🍎 Apple   $1.50/lb |
+|       | [Qty][Add to Cart]  |
+|       | 🍌 Banana  $0.99/lb |
+|       | [Qty][Add to Cart]  |
+|       | ...                 |
++-----------------------------+
+
+Legend:
+- [Nav]: Navigation bar (expanded or collapsed)
+- [Qty]: Quantity selector
+- [Add to Cart]: Button
+- Product emoji, name, price as shown
